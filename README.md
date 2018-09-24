@@ -72,3 +72,29 @@ npm test
 ```
 
 ## Móvil
+
+### Random Testing
+
+In folder **/AutomaticTestsExam1/Movil/RandomTesting/**
+
+Run monkey testing tests
+
+```
+adb shell monkey -p de.danoeh.antennapod -v 10000
+```
+
+### BDT
+
+In folder **/AutomaticTestsExam1/Movil/BDT/**
+
+Install dependencies
+
+```
+bundle install
+```
+
+Run BDT tests
+
+```
+bundle exec calabash-android run ../AntennaPod.apk
+```
