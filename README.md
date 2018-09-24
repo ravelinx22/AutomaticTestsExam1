@@ -14,7 +14,7 @@ In folder **/AutomaticTestsExam1/Web/E2E/**
 Install dependencies
 
 ```
-npm i
+npm install
 ```
 
 Run E2E tests
@@ -30,7 +30,7 @@ In folder **/AutomaticTestsExam1/Web/Headless/**
 Install dependencies
 
 ```
-npm i
+npm install
 ```
 
 Run headless tests
@@ -46,7 +46,7 @@ In folder **/AutomaticTestsExam1/Web/RandomTesting/**
 Install dependencies
 
 ```
-npm i
+npm install
 ```
 
 Run random testing tests
@@ -62,7 +62,7 @@ In folder **/AutomaticTestsExam1/Web/BDT/**
 Install dependencies
 
 ```
-npm i
+npm install
 ```
 
 Run BDT tests
