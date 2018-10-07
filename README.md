@@ -71,7 +71,7 @@ Run BDT tests
 npm test
 ```
 
-## Móvil
+## Mobile
 
 ### Random Testing
 
